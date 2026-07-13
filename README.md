@@ -197,8 +197,7 @@ Customer Retention Rate
 
 ## 📷 Dashboard Preview
 
-> Add your generated dashboard image here after uploading it to GitHub.
-
+https://github.com/Aviral2005-tech/Customer-Analysis-Program/blob/main/customer_spending_distribution.png
 ```markdown
 ![Dashboard](reports/customer_sales_dashboard.png)
 ```
@@ -243,29 +242,6 @@ openpyxl
 jupyter
 ipykernel
 ```
-
-Install using
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
-## 👨‍💻 Author
-
-**Aviral Maheshwari**
-
-B.Tech Computer Science & Engineering (AI & Data Science)
-
-Interested in Artificial Intelligence, Machine Learning, Data Analytics, and Backend Development.
-
-GitHub: https://github.com/your-username
-
-LinkedIn: https://linkedin.com/in/your-linkedin
-
----
-
 ## ⭐ If you found this project useful
 
 Please consider giving it a ⭐ on GitHub.
